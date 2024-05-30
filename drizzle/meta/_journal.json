@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716898930880,
+      "tag": "0000_special_marauders",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716900554910,
+      "tag": "0001_loose_guardsmen",
+      "breakpoints": true
+    }
+  ]
+}
