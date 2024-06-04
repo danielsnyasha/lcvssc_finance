@@ -8,8 +8,11 @@ type Props = {
 const DashboardLayout = ({children}: Props) => {
     return ( <>
     <Header/>
-    <main>
+    <main className="px-4 py-8 lg:px-14">
+        <div className="max-w-screen-2xl mx-auto">
         {children}
+
+        </div>
         </main>
     </> );
 }
